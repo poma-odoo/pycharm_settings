@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+  </Python>
+  <XML>
+    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
+  </XML>
+  <codeStyleSettings language="XML">
+    <option name="SOFT_MARGINS" value="80,120" />
+  </codeStyleSettings>
+</code_scheme>
