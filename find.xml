@@ -9,14 +9,14 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="views" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="!*.po,!*.pot" />
     <mask>*.py,!__manifest__.py</mask>
     <mask>ir.model.access.csv</mask>
     <mask>*.csv</mask>
     <mask>*.xml,*.po</mask>
     <mask>*.py</mask>
-    <mask>!*.po,!*.pot</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>!*.po,!*.pot</mask>
   </component>
 </application>
