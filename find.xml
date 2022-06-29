@@ -4,19 +4,19 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.po,!*.pot" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.py,!__manifest__.py</mask>
     <mask>ir.model.access.csv</mask>
     <mask>*.csv</mask>
     <mask>*.xml,*.po</mask>
     <mask>*.py</mask>
-    <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>!*.po,!*.pot</mask>
+    <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
