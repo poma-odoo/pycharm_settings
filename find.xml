@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="views" />
-    <option name="defaultScopeName" value="views" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="views" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="!*.po,!*.pot" />
     <mask>*.py,!__manifest__.py</mask>
     <mask>ir.model.access.csv</mask>
