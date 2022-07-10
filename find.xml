@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Tests" />
     <option name="defaultScopeName" value="Tests" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Tests" />
     <option name="FILE_MASK" value="!*.po,!*.pot" />
     <mask>*.py,!__manifest__.py</mask>
