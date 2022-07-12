@@ -1,18 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Tests" />
-    <option name="defaultScopeName" value="Tests" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Tests" />
+    <option name="customScope" value="No Tests" />
+    <option name="defaultScopeName" value="No Tests" />
+    <option name="SEARCH_SCOPE" value="No Tests" />
     <option name="FILE_MASK" value="!*.po,!*.pot" />
     <mask>*.py,!__manifest__.py</mask>
     <mask>ir.model.access.csv</mask>
     <mask>*.csv</mask>
     <mask>*.xml,*.po</mask>
+    <mask>*.xml</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>!*.po,!*.pot</mask>
   </component>
 </application>
