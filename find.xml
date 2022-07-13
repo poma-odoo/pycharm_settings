@@ -12,9 +12,9 @@
     <mask>ir.model.access.csv</mask>
     <mask>*.csv</mask>
     <mask>*.xml,*.po</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>!*.po,!*.pot</mask>
+    <mask>*.xml</mask>
     <mask>*.py</mask>
   </component>
 </application>
