@@ -5,14 +5,14 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="No Tests" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="!*.po,!*.pot" />
     <mask>*.py,!__manifest__.py</mask>
     <mask>ir.model.access.csv</mask>
     <mask>*.csv</mask>
     <mask>*.xml,*.po</mask>
     <mask>*.js</mask>
-    <mask>!*.po,!*.pot</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
+    <mask>!*.po,!*.pot</mask>
   </component>
 </application>
